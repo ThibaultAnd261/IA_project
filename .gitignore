@@ -1,0 +1,8 @@
+# Environnement virtuel
+.venv
+
+# Datasets
+images/
+
+# Fichiers de logs
+.DS_Store
